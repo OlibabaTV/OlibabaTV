@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...Technical writing 
 - 💞️ I’m looking to collaborate on Technical writing...
 - 📫 How to reach me here...olibabatv@gmail.com
+I write technical documents
 
 <!---
 OlibabaTV/OlibabaTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
